@@ -1,0 +1,1 @@
+ C:\\Users\\shett\\Desktop\\Se\ Project\\Genetica\\.dart_tool\\flutter_build\\5b98d4855b995813e1464c80493057eb\\native_assets.yaml: 
